@@ -1,5 +1,5 @@
-Esta vez se pide algo bien, bien simple: construí un procedimiento `RojoAlBorde` que ponga una bolita roja en la esquina superior izquierda del tablero.
+Imaginate que no podés usar `Mover` para llegar a la esquina porque no sabes ni dónde está el cabezal, ni qué tamaño tiene el tablero. :scream:
 
-**Ojo**: _No se sabe ni dónde está el cabezal, ni qué tamaño tiene el tablero. Por lo cual no se puede usar `Mover` para llegar hasta la esquina_.
+Por suerte :four_leaf_clover: existe una primitiva :gift: llamada `IrAlBorde`, que toma una dirección, y se mueve todo lo que pueda en esa dirección, **hasta llegar al borde**.
 
-Existe una primitiva (:gift:) llamada `IrAlBorde`, que toma una dirección, y se mueve todo lo que pueda en esa dirección, **hasta llegar al borde**. En este caso tenés que lograr que el cabezal quede en una esquina, por lo tanto tenés que pensar en **dos bordes**: Norte y Oeste.
+> Definí el procedimiento `RojoAlBorde` que ponga una bolita roja en la esquina superior izquierda del tablero.
