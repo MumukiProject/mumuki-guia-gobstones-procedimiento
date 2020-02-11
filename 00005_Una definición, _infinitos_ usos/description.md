@@ -4,4 +4,4 @@ Por esto, su nombre debe ser **único** dentro de todo el programa - ya sabés q
 
 Para facilitarte un poco las cosas, de ahora en más (aunque no siempre) te ofreceremos partes del problema resuelto, para que sólo tengas que enfocarte en lo que queremos que hagas. Algunas veces podrás ver ese código en la pestaña **Biblioteca**, otras simplemente te lo mencionaremos en la consigna o en la ayuda... ¡prestá atención!
 
-> Escribí ahora un **programa** que ponga 9 bolitas rojas en la celda actual, usando el procedimiento “Poner3Rojas” que creaste anteriormente.
+> Escribí un **programa** que ponga 9 bolitas rojas en la celda actual, usando el procedimiento “Poner3Rojas” que creaste anteriormente.
