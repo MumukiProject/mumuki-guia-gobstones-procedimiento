@@ -1,4 +1,4 @@
-> Escribí un procedimiento `PonerCuadradoMulticolor4` que ponga un cuadrado de 4×4 celdas en el que cada celda tenga una bolita de cada color. **El cabezal debe quedar en la celda inicial**.
+Vamos a crear un procedimiento que nos permita dibujar un tablero como este:
 
 <gs-board>
      GBB/1.0
@@ -22,4 +22,4 @@
      head 0 0
 </gs-board>
 
-Usá sin definir el procedimiento `PonerLineaMulticolor4` que escribiste antes, ya lo incluimos en la Biblioteca por vos como si fuera una primitiva. En criollo: no tenés que volver a escribir `procedure PonerLineaMulticolor4() ...`, viene de regalo :gift:.
+> Definí un procedimiento `PonerCuadradoMulticolor4` que ponga un cuadrado de 4×4 celdas en el que cada celda tenga una bolita de cada color e invocalo en el `program`. El cabezal debe quedar en la celda inicial.
