@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: PonerLineaMulticolor4
-
 examples:
  - initial_board: |
      GBB/1.0
