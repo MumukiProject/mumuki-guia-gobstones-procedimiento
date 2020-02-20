@@ -1,1 +1,5 @@
-/*...solution[4]...*/
+procedure Poner3Rojas() {
+  Poner(Rojo)
+  Poner(Rojo)
+  Poner(Rojo)
+}
