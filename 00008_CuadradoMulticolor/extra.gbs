@@ -5,7 +5,8 @@ procedure PonerLineaMulticolor4() {
   Mover(Este)
   PonerCasilleroMulticolor()
   Mover(Este)
-  PonerCasilleroMulticolor()
+  PonerCasilleroMulticolor() 
+  IrAlBorde(Oeste)
 }
 
 procedure PonerCasilleroMulticolor() {
