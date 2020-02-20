@@ -1,1 +1,16 @@
-/*...previousSolution...*/
+procedure PonerLineaMulticolor4() {
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor()
+}
+
+procedure PonerCasilleroMulticolor() {
+  Poner(Verde)
+  Poner(Rojo)
+  Poner(Negro)
+  Poner(Azul)
+}
