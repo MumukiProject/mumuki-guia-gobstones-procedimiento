@@ -4,7 +4,7 @@ En el ejercicio anterior ya dibujamos una punta, ahora vamos a completar la flec
  GBB/1.0
   size 4 4
   cell 2 3 Negro 1 
-  cell 3 3 Negro 1 
+  cell 0 0 Negro 1 
   cell 1 2 Negro 1 
   cell 2 2 Negro 1 
   cell 3 2 Negro 1 
