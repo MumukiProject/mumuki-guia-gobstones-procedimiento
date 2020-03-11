@@ -9,4 +9,4 @@ Vamos a usar un poco la imaginación y vamos a hacer un procedimiento que dibuje
   head 0 1 
 </gs-board>
 
-> Definí el procedimiento `DibujarPuntaNegra` e invocalo dentro de un `program`.
+> Definí el procedimiento `DibujarPuntaNegra` e invocalo dentro de un `program`. El cabezal comienza en el origen.
