@@ -1,10 +1,9 @@
-Como viste en el ejemplo del rombo, se puede empezar a diferenciar dos tipos de comandos dentro de un programa:
+A la acción de crear un procedimiento nuevo la conocemos como **definición** o **declaración**, y eso nos lleva a introducir nuevos elementos sintácticos (o sea, cosas que podemos escribir en nuestro programa):
 
-- los que **vienen definidos por el lenguaje** y nos sirven para expresar operaciones básicas, como `Mover`, `Poner` y `Sacar`. A estos los llamaremos **comandos primitivos**, o simplemente **primitivas**;
-- y los que **definimos por nuestra cuenta**, que nos sirven para expresar tareas más complejas. Como el nombre de esta lección sugiere, estos son los **procedimientos**.
+- la palabra reservada `procedure`, que indica que vamos a definir un procedimiento nuevo;
+- un nombre que represente lo que nuestro procedimiento va a hacer, el cual **tiene que empezar sí o sí con mayúsculas**. Algo importante: **los paréntesis del final son necesarios**, más adelante veremos por qué;
+- un **bloque de código**, que va a ser lo que se ejecute cada vez que **invoquemos** a nuestro procedimiento. Este bloque empieza con una llave de apertura (`{`) y termina con una de finalización (`}`), similar a lo que ya hacíamos para el `program`.
 
-Cuando creamos un procedimiento estamos "enseñándole"  a la computadora a realizar una tarea nueva, que originalmente no estaba incluida en el lenguaje. Sería imposible escribir un lenguaje que traiga _TODO_ lo que se nos pueda ocurrir hacer, ¿no? :thinking:
+¡Vamos a probarlo! :hugging:
 
-¡Ahora te toca a vos! :grin:
-
-> Escribí un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la **celda actual** y un `program` que lo use. 
+> Definí un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la **celda actual** y un `program` que lo use. 
