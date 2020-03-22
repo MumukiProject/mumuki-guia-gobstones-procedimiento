@@ -5,4 +5,10 @@ rules:
     these_expectations_failed:
     - "* Not:Declares:Poner3Rojas"
   then: No tenés que declarar ningún nuevo procedimiento, sino sólo usar el que ya
-    te estamos dando
+    te estamos dando en la **biblioteca**
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - program Uses:Poner3Rojas
+  then: Desde el `program` tenés que poner 9 bolitas rojas. Te dejamos un procedimiento
+    en la **biblioteca** un procedimiento para que uses
