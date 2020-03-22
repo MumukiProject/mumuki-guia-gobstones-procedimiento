@@ -11,4 +11,4 @@ rules:
     these_expectations_failed:
     - program Uses:Poner3Rojas
   then: Mirá el procedimiento que te dejamos en la **biblioteca** un procedimiento
-    para que uses
+    para que uses desde el `program`
