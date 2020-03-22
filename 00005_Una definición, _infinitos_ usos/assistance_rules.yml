@@ -4,11 +4,11 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Not:Declares:Poner3Rojas"
-  then: No tenés que declarar ningún nuevo procedimiento, sino sólo usar el que ya
+  then: no tenés que declarar ningún nuevo procedimiento, sino sólo usar el que ya
     te estamos dando en la **biblioteca**
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - program Uses:Poner3Rojas
-  then: Recordá que en la **biblioteca** te dejamos un procedimiento para que uses
+  then: recordá que en la **biblioteca** te dejamos un procedimiento para que uses
     desde el `program`
