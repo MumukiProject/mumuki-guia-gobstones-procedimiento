@@ -8,7 +8,7 @@ rules:
     te estamos dando en la **biblioteca**
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
+    only_these_expectations_failed:
     - program Uses:Poner3Rojas
   then: recordá que en la **biblioteca** te dejamos un procedimiento para que uses
     desde el `program`
