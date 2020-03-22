@@ -10,5 +10,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - program Uses:Poner3Rojas
-  then: Desde el `program` tenés que poner 9 bolitas rojas. Te dejamos un procedimiento
-    en la **biblioteca** un procedimiento para que uses
+  then: Mirá el procedimiento que te dejamos en la **biblioteca** un procedimiento
+    para que uses
