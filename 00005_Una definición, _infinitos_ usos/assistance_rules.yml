@@ -10,5 +10,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - program Uses:Poner3Rojas
-  then: Mirá el procedimiento que te dejamos en la **biblioteca** un procedimiento
-    para que uses desde el `program`
+  then: Recordá que en la **biblioteca** te dejamos un procedimiento para que uses
+    desde el `program`
