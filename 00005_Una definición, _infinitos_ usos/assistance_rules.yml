@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - "* Not:Declares:Poner3Rojas"
+  then: No tenés que declarar ningún nuevo procedimiento, sino sólo usar el que ya
+    te estamos dando
