@@ -4,4 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_expectations_failed:
     - DibujarFlechaNegra Uses:DibujarPuntaNegra
-  then: 'Recordá _reutilizar_ el procedimiento que dibuja la punta negra :smile:'
+  then: 'Recordá _reutilizar_ el procedimiento que dibuja la punta negra así no escribimos
+    código de más :smile:'
