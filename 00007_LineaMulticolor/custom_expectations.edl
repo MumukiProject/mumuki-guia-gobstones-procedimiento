@@ -1,0 +1,5 @@
+expectation "debe dividir en subtareas": 
+  within `PonerLineaMulticolor4` delegates;
+  
+  
+  
