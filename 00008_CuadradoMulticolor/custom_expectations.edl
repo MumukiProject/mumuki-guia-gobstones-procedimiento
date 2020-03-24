@@ -1,0 +1,2 @@
+expectation "Dentro de `PonerCuadradoMulticolor4` no tenés que llamar a `PonerLineaMulticolor4` más de 4 veces, porque tu cuadrado tiene 4 celdas de alto": 
+ (not (somewhere declares `PonerCuadradoMulticolor4`)) or (through `PonerCuadradoMulticolor4` count(calls `PonerLineaMulticolor4`) <= 4);
