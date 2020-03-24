@@ -1,2 +1,2 @@
 expectation "no tenés que llamar a `PonerLineaMulticolor4` más de 4 veces, porque tu cuadrado tiene 4 celdas de alto": 
-  through `program` count (calls `PonerLineaMulticolor4`) <= 4;
+  count (calls `PonerLineaMulticolor4`) <= 4;
